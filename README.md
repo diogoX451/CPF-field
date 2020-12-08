@@ -15,9 +15,11 @@ Campo de CPF para campos como formulários e vários !!
 　_|　|、
 
 Linguagens Utilizadas:
+<br>
  = > HTML
+ <br>
  = > JavaScript (Puro);
-
+<br>
 
  Redes Sociais:
    => Instagram: https://www.instagram.com/diogoreisalmeida07/
