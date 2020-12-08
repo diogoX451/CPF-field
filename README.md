@@ -4,7 +4,7 @@
 
 <br>
 
-Linguagens Utilizadas:
+<strong>Linguagens Utilizadas:<strong>
 <br>
  = > HTML
  <br>
@@ -15,6 +15,6 @@ Linguagens Utilizadas:
  <br>
    => Instagram: https://www.instagram.com/diogoreisalmeida07/
  <br>
-   => Linkedin: https://www.linkedin.com/in/diogo-almeida-3973541b1/
+   => Linkedin: https://www.linkedin.com/in/diogo-almeida-3973541b1/ 
  <br>  
    => Github: https://github.com/diogoX451
